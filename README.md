@@ -1,5 +1,6 @@
 # Gundam-RX78-Semestral
-##Integrantes:
+
+Integrantes:
 Jorge Ruiz 6-723-428
 Erika Gonzalez 8-954-2161
 Milagros Maturana 8-966-1319
